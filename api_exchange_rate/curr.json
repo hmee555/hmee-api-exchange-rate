@@ -1,0 +1,23 @@
+{
+  "currency": [
+    "AUD",
+    "CAD",
+    "CHF",
+    "DKK",
+    "EUR",
+    "GBP",
+    "HKD",
+    "IDR",
+    "INR",
+    "JPY",
+    "MMK",
+    "MYR",
+    "PHP",
+    "SEK",
+    "USD",
+    "NOK",
+    "CNY",
+	"VND",
+    "SGD"
+  ]
+}

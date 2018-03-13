@@ -1,0 +1,17 @@
+{
+  "name": "exchange_rate",
+  "version": "1.0.0",
+  "description": "Auto read api exchanfe rates from bank of thailand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^1.2.1",
+    "pm2": "^2.6.1",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0"
+  }
+}
